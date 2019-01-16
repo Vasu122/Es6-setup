@@ -1,0 +1,7 @@
+How do i run es6
+1) install node js
+2) and then create folder
+3) then open folder (code .)
+4) npm install http-server -g
+5) http-server -p 1234 (run)
+6) open browser  and go to localhost:1234
